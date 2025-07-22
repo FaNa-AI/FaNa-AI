@@ -2,7 +2,9 @@
 ## 👋 Hi, I'm Faezeh Najafi
 
 🎓 I'm currently studying **Algorithms and Theory of Computation**.
+
 🛠 Right now, I’m working on my **master’s thesis** — designing a **hybrid ML model**, which I hope will lead to some exciting results!  
+
 🧪 In my free time, I enjoy experimenting with LLMs and language modeling just for fun.
 
 💡 I’ll definitely share any interesting findings or models here on GitHub — stay tuned!
