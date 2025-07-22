@@ -45,7 +45,7 @@ I study AIâ€¦ but sometimes I get too lazy and tired to act intelligent myself ð
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adobedreamweaver/adobedreamweaver-plain.svg" width="40" alt="Adobe XD"/>
   <img src="https://raw.githubusercontent.com/aleen42/badges/master/src/scrum.svg" width="80" alt="Scrum Badge"/>
 </p>
-```
+
 
 
 
