@@ -1,9 +1,7 @@
 
 ## 👋 Hi, I'm Faezeh Najafi
 
-🎓 I'm currently studying **Algorithms and Theory of Computation**.  
-🔬 My main research is in **Machine Learning**, with a special focus on **Large Language Models (LLMs)**.
-
+🎓 I'm currently studying **Algorithms and Theory of Computation**.
 🛠 Right now, I’m working on my **master’s thesis** — designing a **hybrid ML model**, which I hope will lead to some exciting results!  
 🧪 In my free time, I enjoy experimenting with LLMs and language modeling just for fun.
 
@@ -48,8 +46,6 @@ I study AI… but sometimes I get too lazy and tired to act intelligent myself �
   <img src="https://raw.githubusercontent.com/aleen42/badges/master/src/scrum.svg" width="80" alt="Scrum Badge"/>
 </p>
 ```
-
----
 
 
 
