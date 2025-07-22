@@ -9,7 +9,7 @@
 
 💡 I’ll definitely share any interesting findings or models here on GitHub — stay tuned!
 
----
+
 
 ### 🌱 I’m currently learning:
 - Python
@@ -32,7 +32,7 @@
 ### ⚡ Fun fact:
 I study AI… but sometimes I get too lazy and tired to act intelligent myself 😅
 
----
+
 
 ### 🛠️ Languages and Tools
 
