@@ -12,7 +12,8 @@
 ---
 
 ### 🌱 I’m currently learning:
-- Python, Advanced ML & DL  
+- Python
+- Advanced ML & DL  
 - LLMs, SLMs  
 - Explainable AI (XAI)  
 - Parallel Processing
