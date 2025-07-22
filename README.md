@@ -1,5 +1,5 @@
 
-## 👋 Hi, I'm Faezeh Najafi
+## 👋 Hi, I'm Faezeh 
 
 🎓 I'm currently studying **Algorithms and Theory of Computation**.
 
