@@ -43,7 +43,7 @@ I study AIâ€¦ but sometimes I get too lazy and tired to act intelligent myself ð
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" alt="TensorFlow"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" alt="Matplotlib"/>
   <img src="images/sentence-transformers.svg" width="80" alt="Sentence Transformers"/>
-  <img src="images/ultralytics.svg" width="80" alt="Ultralytics"/>
+  <img itemprop="image" class="avatar flex-shrink-0 mb-3 mr-3 mb-md-0 mr-md-4" src="https://avatars.githubusercontent.com/u/26833451?s=200&amp;v=4" width="100" height="100" alt="@ultralytics">
   <img src="images/dgl-logo.svg" width="80" alt="DGL"/>
   <img src="https://networkx.org/_static/networkx_logo.svg" width="80" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML"/>
