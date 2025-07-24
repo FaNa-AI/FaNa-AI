@@ -42,10 +42,10 @@ I study AIâ€¦ but sometimes I get too lazy and tired to act intelligent myself ð
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" alt="PyTorch"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" alt="TensorFlow"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" alt="Matplotlib"/>
-  <img src="https://raw.githubusercontent.com/UKPLab/sentence-transformers/main/docs/_static/img/logo.svg" width="80" />
-  <img src="https://raw.githubusercontent.com/ultralytics/assets/master/Ultralytics_Logo/ultralytics-logo-blue.svg" width="80" />
+  img src="images/sentence-transformers.svg" width="80" alt="Sentence Transformers"/>
+  <img src="images/ultralytics.svg" width="80" alt="Ultralytics"/>
+  <img src="images/dgl-logo.svg" width="80" alt="DGL"/>
   <img src="https://networkx.org/_static/networkx_logo.svg" width="80" />
-  <img src="https://raw.githubusercontent.com/dmlc/dgl/main/docs/img/dgl-logo.svg" width="80" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="40" alt="LaTeX"/>
