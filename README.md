@@ -45,7 +45,7 @@ I study AIâ€¦ but sometimes I get too lazy and tired to act intelligent myself ð
   <img class="avatar mr-2 d-none d-md-block" alt="Owner avatar" src="https://avatars.githubusercontent.com/u/9532046?s=48&amp;v=4" width="40" height="40">
   <img itemprop="image" class="avatar flex-shrink-0 mb-3 mr-3 mb-md-0 mr-md-4" src="https://avatars.githubusercontent.com/u/26833451?s=200&amp;v=4" width="40" height="40" alt="@ultralytics">
   <img src="images/dgl-logo.svg" width="80" alt="DGL"/>
-  <img src="https://networkx.org/_static/networkx_logo.svg" width="40" height="40">
+  <img src="https://networkx.org/_static/networkx_logo.svg" width="100" height="80">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="40" alt="LaTeX"/>
