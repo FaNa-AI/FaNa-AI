@@ -20,7 +20,6 @@
 
 ### 🤝 I’m looking for help with:
 - Explainable AI (XAI)  
-- Logic Neural Networks (LNN)
 
 ### 💬 Ask me about:
 - Simple ML/DL models  
